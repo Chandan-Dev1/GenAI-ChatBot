@@ -46,6 +46,7 @@ while (true) {
         messages
     })
 
+    
     messages.push(response.messages[ response.messages.length - 1 ])
 
 
