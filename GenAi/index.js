@@ -46,7 +46,7 @@ while (true) {
         messages
     })
 
-    
+    const app = null
     messages.push(response.messages[ response.messages.length - 1 ])
 
 
